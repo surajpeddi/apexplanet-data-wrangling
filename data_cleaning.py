@@ -23,8 +23,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-RAW_PATH = Path("data/raw/ApexPlanet_DataAnalytics_Dataset.xlsx")
-CLEAN_PATH = Path("data/cleaned/cleaned_sales_dataset.csv")
+RAW_PATH = Path("ApexPlanet_DataAnalytics_Dataset.xlsx")
+CLEAN_PATH = Path("cleaned_sales_dataset.csv")
 SHEET_NAME = "Sales_Dataset"
 
 
